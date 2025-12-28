@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Backend developer</em><br/>
-  <em>Who enjoys solving problems with Go and Java. Always curious, always learning</em>
+  <em>Who enjoys solving problems with Go. Always curious, always learning</em>
 </p>
 
 ---
